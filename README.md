@@ -1,4 +1,9 @@
 ## Hi there 👋
+I am....
+ - 🖥 a software product manager in the Pacific Northwest, experienced with complex data integrations, microservice and REST API architecture, and responsive website experiences
+ - 🌱 passionate about climate resilience and climate solutions! Especially interested in distributed energy resources (DERs), wildfire resilience and forestry, and biomimicry/green urban planning.
+ - 🎵 currently working on turning iTunes metadata for thousands of albums into a classical music catalog/database, using ChatGPT for technical assistance and product evaluation
+ - 👩‍💼 open to work! Find me on LinkedIn at https://www.linkedin.com/in/marniec
 
 <!--
 **roundelay/roundelay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
